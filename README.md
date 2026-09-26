@@ -1,5 +1,4 @@
 # Malaria-prediction-in-Ghana
-https://colab.research.google.com/gist/aishatchana-hue/070d576c9425d2fc9dc3f3c23e4125eb/capstone-project-submit.ipynb
 # 🦟 Predicting Malaria Incidence in Ghana - Capstone Project
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/aishatchana-hue/070d576c9425c2b3e9b1a2c3d4e5f6)
